@@ -1,0 +1,11 @@
+{
+  "base_price": 800000,
+  "recommended_price": 738240.0,
+  "factors": {
+    "region_multiplier": 0.95,
+    "season_multiplier": 1.10,
+    "trend_multiplier": 0.97,
+    "season": "Monsoon"
+  },
+  "message": "Recommended price adjusted for Monsoon season and regional demand."
+}
